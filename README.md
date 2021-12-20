@@ -3,10 +3,10 @@
 👽 Thank you visiting my profile. 
 
 [![Gmail Badge](https://img.shields.io/badge/-Contact_Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:janithgan@gmail.com)](mailto:janithgan@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-janithganepola-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janithganepola/)](https://www.linkedin.com/in/janithganepola/)
-[![Medium Badge](https://img.shields.io/badge/-@janithgan-242222?style=flat&labelColor=242222&logo=Medium&link=https://medium.com/@janithgan)](https://medium.com/@janithgan)
-[![Facebook Badge](https://img.shields.io/badge/-janith.gan.1-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/janith.gan.1/)](https://www.facebook.com/janith.gan.1/)
-[![Twitter Badge](https://img.shields.io/badge/-@janithgan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/janithgan)](https://twitter.com/janithgan)
+[![Linkedin Badge](https://img.shields.io/badge/-janithganepola-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janithganepola)](https://www.linkedin.com/in/janithganepola/)
+[![Medium Badge](https://img.shields.io/badge/-janithgan-242222?style=flat&labelColor=242222&logo=Medium&link=https://medium.com/@janithgan)](https://janithgan.medium.com)
+[![Facebook Badge](https://img.shields.io/badge/-janith.gan.1-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/janith.gan.1)](https://www.facebook.com/janith.gan.1/)
+[![Twitter Badge](https://img.shields.io/badge/-@JanithGan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JanithGan)](https://twitter.com/janithgan)
 
 ### About Me ℹ️
 
