@@ -12,6 +12,8 @@
 
 - 🤓 Passionate Learner 🤔 Problem Solver
 
+- 👨🏾‍💻 SE [@SyscoLABS](https://github.com/SyscoCorporation)
+
 - 🎓 Engineering Student [@ENTC](https://ent.uom.lk/)
 
 - 💼 Former Intern [@WSO2](https://github.com/wso2)
