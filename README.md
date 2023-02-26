@@ -24,12 +24,12 @@
 
 **#software | #web-development | #architectural-design | #engineering | #ai-enthusiast | #data-science**
 
-## Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,py,flutter,angular,aws)](https://skillicons.dev)
-
-
 ### Stats 📈
 
 ![Janith's GitHub stats](https://github-readme-stats.vercel.app/api?username=janithgan&show_icons=true&theme=radical)  |  ![trophy](https://github-profile-trophy.vercel.app/?username=janithgan&row=2&margin-h=15&column=3&margin-w=15&theme=darkhub&title=MultiLanguage,Commits,Issues,PullRequest,Repositories,Followers)
 |---|---|
+
+
+### Technologies 💻
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,py,flutter,angular,aws)](https://skillicons.dev)
