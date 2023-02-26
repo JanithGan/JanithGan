@@ -14,7 +14,7 @@
 
 - 👨🏾‍💻 SE [@SyscoLABS](https://github.com/SyscoCorporation)
 
-- 🎓 Engineering Student [@ENTC](https://ent.uom.lk/)
+- 🎓 B.Sc. Engineering Graduate [@ENTC](https://ent.uom.lk/)
 
 - 💼 Former Intern [@WSO2](https://github.com/wso2)
 
@@ -22,7 +22,12 @@
 
 ### Interests 💭 
 
-**#ml | #ai | #data-science | #software | #web-design | #flutter | #angular | #iot | #engineering**
+**#software | #web-development | #architectural-design | #engineering | #ai-enthusiast | #data-science**
+
+## Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,py,flutter,angular,aws)](https://skillicons.dev)
+
 
 ### Stats 📈
 
